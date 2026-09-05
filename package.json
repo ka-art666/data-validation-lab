@@ -1,0 +1,13 @@
+{
+  "name": "data-validation-lab",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Browser-based data validation experiments",
+  "type": "module",
+  "scripts": {
+    "validate": "node browser-check.js"
+  },
+  "dependencies": {
+    "playwright": "1.55.0"
+  }
+}
